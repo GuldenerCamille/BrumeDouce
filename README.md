@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BrumeDouce
+- 👋 Hi, I’m @Camille
 - 👀 I’m interested in web development and new technology (love AI ^-^)
 - 🌱 I’m currently learning HTML, CSS, JavaScript, C and Python
 - 💞️ I’m looking to collaborate on a lot of projects!
